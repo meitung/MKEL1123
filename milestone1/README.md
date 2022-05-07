@@ -21,8 +21,8 @@ In other words, the LED is blinking for every 1s or 1000ms.
 :three: USB cables
 
 ### **Photo of Board**
-<img src="https://github.com/meitung/MKEL1123/blob/milestone1/Front%20of%20Board.jpg" height="400px" width="400px" >
-<img src="https://github.com/meitung/MKEL1123/blob/milestone1/Back%20of%20Board.jpg" height="400px" width="400px" >
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Front%20of%20Board.jpg" height="400px" width="400px" >
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Back%20of%20Board.jpg" height="400px" width="400px" >
 
 ### **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
