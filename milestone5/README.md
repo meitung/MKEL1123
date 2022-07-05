@@ -43,10 +43,10 @@ To monitor several important parameters, water level sensor, DHT22 sensor and LD
 
 ```
 ### Reference
-- [Introduction to FreeRTOS] (https://controllerstech.com/introduction-to-free-rtos-in-stm32/)
-- [DHT22 Tutorial Video] (https://www.youtube.com/watch?v=zuvvzTh4d4E&ab_channel=NizarMohideen-MicroPeta)
-- [DHT22 in STM32] (https://www.micropeta.com/video48)
-- [LDR Sensor in STM32] (https://deepbluembedded.com/stm32-light-sensor-ldr-interfacing-ambient-light-sensor-project/)
-- [ThingSpeak in STM32] (https://controllerstech.com/data-logger-using-stm32-and-esp8266/)
+- [Introduction to FreeRTOS](https://controllerstech.com/introduction-to-free-rtos-in-stm32/)
+- [DHT22 Tutorial Video](https://www.youtube.com/watch?v=zuvvzTh4d4E&ab_channel=NizarMohideen-MicroPeta)
+- [DHT22 in STM32](https://www.micropeta.com/video48)
+- [LDR Sensor in STM32](https://deepbluembedded.com/stm32-light-sensor-ldr-interfacing-ambient-light-sensor-project/)
+- [ThingSpeak in STM32](https://controllerstech.com/data-logger-using-stm32-and-esp8266)
 - [STM32 Nucleo-64 Boards User Manual](https://drive.google.com/file/d/1GAqdJ5bWztGX7JlX7BPyD6pmOoSrM1mf/view?usp=sharing)
 - [Description of STM32F4 HAL and Low-Layer Drivers](https://drive.google.com/file/d/1y4wEi0xtDwZTLbO_yoIVwKH5LEFnJ6sZ/view?usp=sharing)
