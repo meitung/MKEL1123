@@ -7,7 +7,7 @@ Group 5
 
 ---
 ### **Overview**
-To monitor several important parameters, water level sensor, DHT22 sensor and LDR sensor are used as the input. Meanwhile, the operating duration of the water pump motor is controlled based on the humidity and temperature. FreeRTOS is enabled to perform concurrent tasks at predetermined priority. 
+The objective of the proposed system is to build a low power and sustainable hydroponic farming system which offers real time monitoring and control over the important parameters. In this project, STM32F446 is chosen as the microprocessor of the proposed system.  To monitor water level of the tank, ambient temperature, humidity and light intensity, water level sensor, DHT22 sensor and LDR sensor are used as the input of the STM32F466 microcontroller. Meanwhile, a water pump motor and LEDs act as the output response which are controlled by the STM32F446 microcontroller based on the input data of the DHT22 sensor and LDR sensor respectively. ESP8266 Wi-Fi Module is used for the purpose of data transfer between the cloud and the microcontroller and ThingSpeak is chosen as IoT platform. The program of the microcontroller is written using the software STM32CubeIDE. To perform and execute concurrent tasks at predetermined priority, Real-Time Operating System (RTOS) is implemented and FreeRTOS is enabled in STM32CubeIDE. 
 
 ---
 ### **Equipment Required**
