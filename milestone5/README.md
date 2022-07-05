@@ -7,6 +7,7 @@ Group 5
 
 ---
 ### **Overview**
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/block%20diagram.PNG" height="400px" width="400px">
 The objective of the proposed system is to build a low power and sustainable hydroponic farming system which offers real time monitoring and control over the important parameters. <br> <br>
 STM32F446 is chosen as the microprocessor of the proposed system.  <br> <br>
 To monitor water level of the tank, ambient temperature, humidity and light intensity, water level sensor, DHT22 sensor and LDR sensor are used as the input of the STM32F466 microcontroller. A water pump motor and LEDs act as the output response which are controlled by the STM32F446 microcontroller based on the input data of the DHT22 sensor and LDR sensor respectively. ESP8266 Wi-Fi Module is used for the purpose of data transfer between the cloud and the microcontroller and ThingSpeak is chosen as IoT platform. <br> <br>
@@ -25,19 +26,21 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 :nine: LEDs <br>
 
 ## **Gallery**
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png" height="600px" width="600px">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/Nucleo-STM32F446RE.png" height="400px" width="400px" >
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/components.png" height="400px" width="400px" >
 
 ## **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-
 ## System Architecture
+
 
 ## STM32CubeIDE
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32F446%20pinout%20view.png">
+
 ## ThingSpeak Setup
+
 
 ### **Quick Links**
 - [YouTube Demostration Video](https://youtu.be/L6ZIIia__Tc)
