@@ -42,7 +42,9 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 
 ## STM32CubeIDE
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32F446%20pinout%20view.png">
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32F446%20pinout%20view.png" height="400px" width="400px">
+</p>
 
 ## ThingSpeak Setup
 
