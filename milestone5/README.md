@@ -27,6 +27,8 @@ To monitor several important parameters, water level sensor, DHT22 sensor and LD
 ### **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
+### ThingSpeak Setup
+
 ### **Quick Links**
 - [YouTube Demostration Video](https://youtu.be/L6ZIIia__Tc)
 - [Plagiarism Declaration Form](https://drive.google.com/file/d/1Plq23TwlS19BEvZTGlQb8P0T4vDp0Bwa/view)
