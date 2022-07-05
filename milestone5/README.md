@@ -29,9 +29,11 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 :nine: LEDs <br>
 
 ## **Gallery**
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png" height="450px" width="600px">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png" >
+<p float="left">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/Nucleo-STM32F446RE.png" height="400px" width="400px" >
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/components.png" height="400px" width="400px" >
+</p>
 
 ## **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
