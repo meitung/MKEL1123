@@ -19,8 +19,6 @@ To monitor several important parameters, water level sensor, DHT22 sensor and LD
 :six: LDR sensor <br>
 :seven: Water Pump Motor <br>
 :eight: LEDs <br>
-:nine: Personal computer <br>
-:ten: USB cables
 
 ### **Photo of Board**
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Photo%20of%20Board/Front%20of%20Board.jpg" height="400px" width="400px" >
