@@ -14,16 +14,17 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 ---
 ### **Equipment Required**
-:one: [STM32F446RET6 (Nucleo-F446RF)](https://www.digikey.my/en/products/detail/stmicroelectronics/NUCLEO-F446RE/5347712?utm_adgroup=Products&utm_source=google&utm_medium=cpc&utm_campaign=Smart%20Shopping_DK%2B%20Supplier_Suntsu&utm_term=&productid=5347712&gclid=CjwKCAjwwo-WBhAMEiwAV4dybf9QIqFgZyiYbgBGT-ySye7BC3D3rw205yHemeCn94EpIbqXlbZRKhoCvn4QAvD_BwE) <br>
+:one: [STM32F446RET6 (Nucleo-F446RE)](https://www.digikey.my/en/products/detail/stmicroelectronics/NUCLEO-F446RE/5347712?utm_adgroup=Products&utm_source=google&utm_medium=cpc&utm_campaign=Smart%20Shopping_DK%2B%20Supplier_Suntsu&utm_term=&productid=5347712&gclid=CjwKCAjwwo-WBhAMEiwAV4dybf9QIqFgZyiYbgBGT-ySye7BC3D3rw205yHemeCn94EpIbqXlbZRKhoCvn4QAvD_BwE) <br>
 :two: [ESP8266 Wi-Fi Module](https://shopee.com.my/ESP-01S-ESP8266-serial-WIFI-Wireless-Transceiver-Modele--ESP-01-Updated-version--i.110910897.6806457597?gclid=CjwKCAjwwo-WBhAMEiwAV4dybflMBCLRnwpX7L79gzdY8zQ8k9z_JAhwN3UGM_yNL-7oyDT5Mdr15BoCj7AQAvD_BwE) <br>
 :three: [Water Level Sensor](https://shopee.com.my/Water-Liquid-Level-Sensor-Module-for-Arduino-i.23949362.856353446?sp_atk=4f7069ff-60fb-4140-b833-573b99ddaedb&xptdk=4f7069ff-60fb-4140-b833-573b99ddaedb) <br>
 :four: [DHT22 Sensor](https://shopee.com.my/DHT11-DHT22-DHT-11-22-High-Accuracy-Temperature-and-Humidity-Moisture-Sensor-3.3V-5V-Module-FREE-CABLE-for-Arduino-i.33091591.572008040?sp_atk=f6591cbd-21f8-475f-b1c6-903565792b8c&xptdk=f6591cbd-21f8-475f-b1c6-903565792b8c) <br>
 :five: [LDR sensor](https://shopee.com.my/Photo-Resistor-LDR-Light-Sensor-Module-(-Light-Dependent-Resistor-)-i.33287405.463948703?sp_atk=97c9e823-7b1f-4cc3-af84-5fbd4eb704dd&xptdk=97c9e823-7b1f-4cc3-af84-5fbd4eb704dd) <br>
 :six: [1-Channel 5V Relay Module](https://shopee.com.my/5V-12V-1-2-4-8-Ways-Channels-Opto-isolator-Isolated-Optocoupler-Trigger-Switch-Relay-Module-AC-240V-DC-30V-for-Arduino-i.33091591.468240805?sp_atk=6fe489ef-0f62-4fc3-929d-ab59c5aa2d3a&xptdk=6fe489ef-0f62-4fc3-929d-ab59c5aa2d3a) <br>
 :seven: [Water Pump Motor](https://shopee.com.my/product/238148246/5641804433?smtt=0.28541998-1654091074.3) <br>
-:eight: LEDs <br>
+:eight: [12V Power Supply](https://shopee.com.my/product/238148246/5641804433?smtt=0.28541998-1654091074.3) <br>
+:nine: LEDs <br>
 
-### **Photo of Board**
+### **Photos**
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Photo%20of%20Board/Front%20of%20Board.jpg" height="400px" width="400px" >
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Photo%20of%20Board/Back%20of%20Board.jpg" height="400px" width="400px" >
 
