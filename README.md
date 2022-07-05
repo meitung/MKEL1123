@@ -10,4 +10,6 @@ MKEL1123 Advanced Microprocessor System Assignment
 
 ## Milestones
 - [Milestone 1](https://github.com/meitung/MKEL1123/tree/main/milestone1)
+- [Milestone 3](https://youtu.be/ZYLQebmYB-s)
+- [Milestone 4](https://youtu.be/L6ZIIia__Tc)
 - [Milestone 5](https://github.com/meitung/MKEL1123/tree/main/milestone5)
