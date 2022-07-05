@@ -24,14 +24,18 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 :eight: [12V Power Supply](https://shopee.com.my/product/238148246/5641804433?smtt=0.28541998-1654091074.3) <br>
 :nine: LEDs <br>
 
-### **Photos**
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Photo%20of%20Board/Front%20of%20Board.jpg" height="400px" width="400px" >
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone1/Photo%20of%20Board/Back%20of%20Board.jpg" height="400px" width="400px" >
+## **Gallery**
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.jpg">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/Nucleo-STM32F446RE.png" height="400px" width="400px" >
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/components.png" height="400px" width="400px" >
 
-### **Software Installation**
+## **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-### ThingSpeak Setup
+
+## System Architecture
+
+## ThingSpeak Setup
 
 ### **Quick Links**
 - [YouTube Demostration Video](https://youtu.be/L6ZIIia__Tc)
