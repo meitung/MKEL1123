@@ -25,7 +25,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 :nine: LEDs <br>
 
 ## **Gallery**
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.jpg">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/Nucleo-STM32F446RE.png" height="400px" width="400px" >
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/components.png" height="400px" width="400px" >
 
@@ -35,6 +35,8 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 ## System Architecture
 
+## STM32CubeIDE
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32F446%20pinout%20view.png">
 ## ThingSpeak Setup
 
 ### **Quick Links**
