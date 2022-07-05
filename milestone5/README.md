@@ -31,8 +31,8 @@ To monitor several important parameters, water level sensor, DHT22 sensor and LD
 
 ### **Quick Links**
 - [YouTube Demostration Video](https://youtu.be/L6ZIIia__Tc)
-- [Plagiarism Declaration Form](https://drive.google.com/file/d/1Plq23TwlS19BEvZTGlQb8P0T4vDp0Bwa/view)
-- [Source Code](https://github.com/meitung/MKEL1123/tree/main/milestone1/milestone_1_LED_blink)
+- [YouTube Progress Video (Milestone 3)](https://youtu.be/ZYLQebmYB-s)
+- [Source Code](https://github.com/meitung/MKEL1123/tree/main/milestone5/testingThingspeak/Core)
 
 ### Source Code
 * `main.c`
