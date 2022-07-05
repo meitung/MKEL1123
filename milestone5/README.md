@@ -45,9 +45,23 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32F446%20pinout%20view.png" height="400px" width="400px">
 </p>
+- PA0: ADC2_IN0 (Water Level Sensor)
+- PA1: ADC1_IN1 (LDR Sensor)
+- PB9: GPIO_Output (DHT22 Sensor)
+- PA5: GPIO_Output (Relay Module & Water Pump Motor)
+- PA9: USART1_RX (ESP8266 Wi-Fi Module)
+- PA10: USART1_TX (ESP8266 Wi-Fi Module)
+
+**FreeRTOS**
+l. 
+l.
+
+**Pin Configuration**
+l.
+l.
 
 ## ThingSpeak Setup
-
+l. Regsiter and login to ThingSpeak account 
 
 ### **Quick Links**
 - [YouTube Demostration Video](https://youtu.be/L6ZIIia__Tc)
