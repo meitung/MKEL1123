@@ -52,18 +52,17 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 - PA9: USART1_RX (ESP8266 Wi-Fi Module) <br>
 - PA10: USART1_TX (ESP8266 Wi-Fi Module) <br>
 
-**FreeRTOS**
+### FreeRTOS
+l. xxx
 l. 
-l.
 
-**Pin Configuration**
-l.
-l.
+
+### Explanation
 
 ## ThingSpeak Setup
 l. Regsiter and login to ThingSpeak account 
 
-### **Quick Links**
+## **Quick Links**
 - [YouTube Demostration Video](https://youtu.be/L6ZIIia__Tc)
 - [YouTube Progress Video (Milestone 3)](https://youtu.be/ZYLQebmYB-s)
 - [Source Code](https://github.com/meitung/MKEL1123/tree/main/milestone5/testingThingspeak/Core)
