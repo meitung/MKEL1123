@@ -7,7 +7,10 @@ Group 5
 
 ---
 ### **Overview**
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/block%20diagram.PNG" height="200px" width="250px">
+</p>
+	
 The objective of the proposed system is to build a low power and sustainable hydroponic farming system which offers real time monitoring and control over the important parameters. <br> <br>
 STM32F446 is chosen as the microprocessor of the proposed system.  <br> <br>
 To monitor water level of the tank, ambient temperature, humidity and light intensity, water level sensor, DHT22 sensor and LDR sensor are used as the input of the STM32F466 microcontroller. A water pump motor and LEDs act as the output response which are controlled by the STM32F446 microcontroller based on the input data of the DHT22 sensor and LDR sensor respectively. ESP8266 Wi-Fi Module is used for the purpose of data transfer between the cloud and the microcontroller and ThingSpeak is chosen as IoT platform. <br> <br>
