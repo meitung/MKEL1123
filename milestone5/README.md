@@ -52,6 +52,11 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 - PA9: USART1_RX (ESP8266 Wi-Fi Module) <br>
 - PA10: USART1_TX (ESP8266 Wi-Fi Module) <br>
 
+Step :one: Import the source codes downloaded from GitHub
+
+Step :two: Configure the setting of Wi-Fi and ThingSpeak
+
+Step :three: Upload the program to your Nucleo-F446RE board
 ### FreeRTOS
 1. xxx
 2. 
