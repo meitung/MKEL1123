@@ -79,7 +79,7 @@ write api key of thingspeak
 
 
 ## ThingSpeak Setup
-1. Regsiter and login to ThingSpeak account 
+1. Regsiter and login to [ThingSpeak](https://thingspeak.com/) account 
 2. 
 
 ## **Quick Links**
