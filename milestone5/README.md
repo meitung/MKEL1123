@@ -54,13 +54,22 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <br>
 
 **Step :one: Import the source codes downloaded from GitHub**
+<br>
 :small_blue_diamond: Go to **File** then **Import**
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="600">
-<br>
+</p>
+
+:small_blue_diamond: Select **Existing Projects into Workspace** and **Next**
+
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import2.png" width="450">
-<br>
+</p>
+
+:small_blue_diamond: Browse the [source code](https://github.com/meitung/MKEL1123/tree/main/milestone5/testingThingspeak) downloaded from GitHub and **Finish**
+
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import3.png" width="450">
 <br>
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import4.png" width="450">
