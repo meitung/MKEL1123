@@ -52,7 +52,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 - PA9: USART1_RX (ESP8266 Wi-Fi Module) <br>
 - PA10: USART1_TX (ESP8266 Wi-Fi Module) <br>
 <br>
-Step :one: Import the source codes downloaded from GitHub
+**Step :one: Import the source codes downloaded from GitHub**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="600">
 <br>
@@ -65,7 +65,7 @@ Step :one: Import the source codes downloaded from GitHub
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import5.png" width="450">
 </p>
 <br>
-Step :two: Configure the setting of Wi-Fi and ThingSpeak
+**Step :two: Configure the setting of Wi-Fi and ThingSpeak**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify1.png" width="600">
 <br>
@@ -74,7 +74,7 @@ Step :two: Configure the setting of Wi-Fi and ThingSpeak
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="450">
 </p>
 <br>
-Step :three: Upload the program to your Nucleo-F446RE board
+**Step :three: Upload the program to your Nucleo-F446RE board**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify4.png" width="600">
 </p>
@@ -91,20 +91,25 @@ write api key of thingspeak
 
 ## ThingSpeak Setup
 **Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account** 
-
+For first time users, create an ThingSpeak account
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
-<br>
+</p>
+Fill up your email address, loaction and name
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak2.png" width="550">
-<br>	
+</p>
+Verify your registered email
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak3.png" width="400">
+</p>
 <br>
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak4.png" width="550">
 <br>
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
 </p>
 <br>
-Step :two: Create new channel to monitor the value of the sensors
+**Step :two: Create new channel to monitor the value of the sensors**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
 <br>	
