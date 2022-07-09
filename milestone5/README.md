@@ -738,7 +738,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 ### Steps to Download Source Code
 Method :one: Directly download source code from [here](https://github.com/meitung/MKEL1123)
 <br>
-
 Press the **Code** button and select **Download ZIP**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/DownloadCode1.png" width="400">
@@ -752,15 +751,13 @@ Unzip the ZIP file
 
 Method :two: Download using [GitBash](http://www.git-scm.com/download)
 <br>
-
 :small_blue_diamond: Launch your GitBash
 <br>
-
 :small_blue_diamond: Change directory to your desired location to save the source code using the command **cd**
 <br>
 :small_blue_diamond: Download the source code by using the command **git clone https://github.com/meitung/MKEL1123.git**
 <p align="center">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/DownloadCode3.png" width="500">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/DownloadCode3.PNG" width="500">
 </p>
 
 
