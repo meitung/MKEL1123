@@ -144,7 +144,7 @@ To activate FreeRTOS:
 In this project, 4 threads (tasks) are set as you can see in the main.c
 
 <p align="center">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS3.png" width="350">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS03.png" width="350">
 </p>	
 
 To create parallel task, the codes can be inserted inside the for loop.
