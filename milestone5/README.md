@@ -54,6 +54,8 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <br>
 
 **Step :one: Import the source codes downloaded from GitHub**
+:small_blue_diamond: Go to **File** then **Import**
+
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="600">
 <br>
