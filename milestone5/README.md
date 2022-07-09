@@ -29,7 +29,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 :nine: LEDs <br>
 
 ## **Gallery**
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png" >
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/prototype.png" width="700">
 <p float="left">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/Nucleo-STM32F446RE.png" height="400px" width="400px" >
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/components.png" height="400px" width="400px" >
@@ -53,19 +53,25 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 - PA10: USART1_TX (ESP8266 Wi-Fi Module) <br>
 <br>
 Step :one: Import the source codes downloaded from GitHub
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import2.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import3.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import4.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import5.png" width="550">
+</p>
 <br>
 Step :two: Configure the setting of Wi-Fi and ThingSpeak
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify1.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify2.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="550">
+</p>
 <br>
 Step :three: Upload the program to your Nucleo-F446RE board
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify4.png" width="550">
+</p>
 <br>
 ### FreeRTOS
 1. xxx
