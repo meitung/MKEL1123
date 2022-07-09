@@ -53,7 +53,6 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 - PA10: USART1_TX (ESP8266 Wi-Fi Module) <br>
 <br>
 Step :one: Import the source codes downloaded from GitHub
-
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import2.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import3.png" width="550">
@@ -79,10 +78,18 @@ write api key of thingspeak
 
 
 ## ThingSpeak Setup
-1. Regsiter and login to [ThingSpeak](https://thingspeak.com/) account 
-2. Create new channel and fill up the field name
+Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account 
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
-
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak2.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak3.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak4.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
+<br>
+Step :two: Create new channel to monitor the value of the sensors
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak7.png" width="550">
+<br>
 
 ## **Quick Links**
 - [YouTube Demostration Video (Milestone 4)](https://youtu.be/L6ZIIia__Tc)
