@@ -117,8 +117,40 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 ### Additional Information & Explanation
 **FreeRTOS**
-1. xxx
-2. 
+FreeRTOS is a real-time operating system kernel for embedded devices such as Nucleo-F446RE for parallel task execution and can be activated in STM32CubeIDE.
+<br>
+To activate FreeRTOS:
+:small_blue_diamond: Open **.ioc** file and select **FREERTOS** under **Middleware**
+<br>
+
+:small_blue_diamond: Select **CMSIS_V1** as interface
+<br>
+
+:small_blue_diamond: Go to **Tasks and Queues** and **Add**
+<br>
+
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS1.png">
+</p>
+
+:small_blue_diamond: Enter the **Task Name** and **Entry Function** and select the **Priority** 
+<br>
+
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS2.png" width="300">
+</p>
+
+In this project, 4 threads (tasks) are set as you can see in the main.c
+
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS3.png">
+</p>	
+
+To create parallel task, the codes can be inserted inside the for loop.
+
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS4.png">
+</p>
 
 ## ThingSpeak Setup
 **Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account**
