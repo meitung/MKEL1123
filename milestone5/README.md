@@ -110,6 +110,7 @@ write api key of thingspeak
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
 </p>
 <br>
+
 **Step :two: Create new channel to monitor the value of the sensors**
 <br>
 :small_blue_diamond: Create new channel
@@ -122,7 +123,7 @@ write api key of thingspeak
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
 </p>
-:small_blue_diamond: Copy the Write API Key into main.c 
+:small_blue_diamond: Copy the Write API Key into main.c (STM32CubeIDE)
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak7.png" width="550">
 </p>
