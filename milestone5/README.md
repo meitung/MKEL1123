@@ -84,6 +84,8 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 </p>
 
 :small_blue_diamond: Insert your network credentials into the **WIFI_NAME** and **WIFI_PASSWORD** fields in line 220 of main.c
+<br>
+:thought_balloon: **ESP_INIT** function is to initialize ESP8266 Wi-FI module by connecting it to the Access Point you set
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify2.png" width="450">
@@ -91,7 +93,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 :small_blue_diamond: Change the **WRITE_API_KEY** in line 658 of main.c to the Write API Key obtained from ThingSpeak after setting the channel
 <br>
-:thought_balloon: Further explanation on ThingSpeak can be found in [next section](https://github.com/meitung/MKEL1123/tree/main/milestone5#thingspeak-setup)
+:thought_balloon: **ESP_Send_Multi** function is to send data from STM32F446RE to ThingSpeak via ESP8266 Wi-Fi module. Further explanation on ThingSpeak can be found in [next section](https://github.com/meitung/MKEL1123/tree/main/milestone5#thingspeak-setup)
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="450">
@@ -104,15 +106,19 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 </p>
 <br>
 
-### FreeRTOS
+**Optional Setting: Configure the motor operating time**
+<br>
+**HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_SET)** is to set PA5 which is connected to the relay module to logic value **1**(5V) and turn the motor on while **HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_RESET)** is to set PA5 to logic value **0**(0V) and turn the motor off. By modifying the value in **HAL_Delay**, the operation period of the motor can be adjusted.
+
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify5.png" width="500">
+</p>
+<br>
+
+### Additional Information & Explanation
+**FreeRTOS**
 1. xxx
 2. 
-
-
-### Explanation
-wifi connection <br>
-write api key of thingspeak
-
 
 ## ThingSpeak Setup
 **Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account**
