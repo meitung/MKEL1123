@@ -90,7 +90,7 @@ write api key of thingspeak
 
 
 ## ThingSpeak Setup
-Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account 
+**Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account** 
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
