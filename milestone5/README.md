@@ -117,6 +117,7 @@ write api key of thingspeak
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
 </p>
 :small_blue_diamond: Create 4 fields and label them to "Light Intensity", "Temperature", "Water Level" and "Humidty".
+<br>
 :thought_balloon: You may add more fields if you would like to add more sensor value or change the label name to your desired name.
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
