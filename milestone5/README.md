@@ -58,7 +58,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <br>
 :small_blue_diamond: Go to **File** then **Import**
 <br>
-:thought_balloon: You may refer to [here](https://github.com/meitung/MKEL1123/blob/main/milestone5/README.md#steps-to-download-source-code) to download the source code
+:thought_balloon: You may refer [here](https://github.com/meitung/MKEL1123/blob/main/milestone5/README.md#steps-to-download-source-code) to download the source code
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="600">
