@@ -145,13 +145,13 @@ To activate FreeRTOS:
 In this project, 4 threads (tasks) are set as you can see in the main.c
 
 <p align="center">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS3.png" width="300">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS3.png" width="350">
 </p>	
 
 To create parallel task, the codes can be inserted inside the for loop.
 
 <p align="center">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS4.png" width="200">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS4.png" width="300">
 </p>
 
 ## ThingSpeak Setup
