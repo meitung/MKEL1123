@@ -91,7 +91,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 :small_blue_diamond: Change the **WRITE_API_KEY** in line 658 of main.c to the Write API Key obtained from ThingSpeak after setting the channel
 <br>
-:thought_balloon: Further explanation can be found in [next section](https://github.com/meitung/MKEL1123/tree/main/milestone5#thingspeak-setup)
+:thought_balloon: Further explanation on ThingSpeak can be found in [next section](https://github.com/meitung/MKEL1123/tree/main/milestone5#thingspeak-setup)
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="450">
