@@ -91,30 +91,36 @@ write api key of thingspeak
 
 ## ThingSpeak Setup
 **Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account** 
-For first time users, create an ThingSpeak account
+:small_blue_diamond: For first time users, create an ThingSpeak account
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
 </p>
-Fill up your email address, loaction and name
+:small_blue_diamond: Fill up your email address, loaction and name
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak2.png" width="550">
 </p>
-Verify your registered email
+:small_blue_diamond: Verify your registered email
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak3.png" width="400">
 </p>
-<br>
+:small_blue_diamond: After the registration, log into ThingSpeak by entering your registered email and password
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak4.png" width="550">
-<br>
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
 </p>
 <br>
 **Step :two: Create new channel to monitor the value of the sensors**
+:small_blue_diamond: Create new channel
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
-<br>	
+</p>
+:small_blue_diamond: Create 4 fields and label them to "Light Intensity", "Temperature", "Water Level" and "Humidty".
+:thought_balloon: You may add more fields if you would like to add more sensor value or change the label name to your desired name.
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
-<br>
+</p>
+:small_blue_diamond: Copy the Write API Key into main.c 
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak7.png" width="550">
 </p>
 <br>
