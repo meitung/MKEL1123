@@ -55,18 +55,18 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 Step :one: Import the source codes downloaded from GitHub
 
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="550">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import2.png">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import3.png">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import4.png">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import5.png">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import2.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import3.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import4.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import5.png" width="550">
 <br>
 Step :two: Configure the setting of Wi-Fi and ThingSpeak
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify1.png">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify2.png">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify1.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify2.png" width="550">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="550">
 <br>
 Step :three: Upload the program to your Nucleo-F446RE board
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify4.png">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify4.png" width="550">
 <br>
 ### FreeRTOS
 1. xxx
@@ -80,7 +80,9 @@ write api key of thingspeak
 
 ## ThingSpeak Setup
 1. Regsiter and login to [ThingSpeak](https://thingspeak.com/) account 
-2. 
+2. Create new channel and fill up the field name
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
+
 
 ## **Quick Links**
 - [YouTube Demostration Video (Milestone 4)](https://youtu.be/L6ZIIia__Tc)
