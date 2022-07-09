@@ -70,9 +70,15 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 **Step :two: Configure the setting of Wi-Fi and ThingSpeak**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify1.png" width="600">
-<br>
+</p>
+:small_blue_diamond: Insert your network credentials into the **WIFI_NAME** and **WIFI_PASSWORD** fields in line 220 to your 
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify2.png" width="450">
+</p>
+:small_blue_diamond: Change the WRITE_API_KEY in line 658 of main.c to the Write API Key obtained from ThingSpeak after setting the channel
 <br>
+:thought_balloon: Further explanation can be found in [next section](https://github.com/meitung/MKEL1123/tree/main/milestone5#thingspeak-setup)
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="450">
 </p>
 <br>
@@ -82,6 +88,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify4.png" width="600">
 </p>
 <br>
+
 ### FreeRTOS
 1. xxx
 2. 
@@ -116,17 +123,17 @@ write api key of thingspeak
 
 **Step :two: Create new channel to monitor the value of the sensors**
 <br>
-:small_blue_diamond: Create new channel
+:small_blue_diamond: Create a new channel
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
 </p>
-:small_blue_diamond: Create 4 fields and label them to "Light Intensity", "Temperature", "Water Level" and "Humidty".
+:small_blue_diamond: Type a name for your channel and add description (optional). Since 4 parameters are monitored, 4 fields are enabled and label them to "Light Intensity", "Temperature", "Water Level" and "Humidty". Click the **Save Channel** button to create and save your channel.
 <br>
 :thought_balloon: You may add more fields if you would like to add more sensor value or change the label name to your desired name.
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak7.png" width="550">
 </p>
-:small_blue_diamond: Copy the Write API Key into main.c (STM32CubeIDE)
+:small_blue_diamond: To send values from Nucleo-F446RE to ThingSpeak, the **Write API Key** is required to be copied into line 658 of main.c (STM32CubeIDE). It can be found in the **API Keys** tab. 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak8.png" width="550">
 </p>
