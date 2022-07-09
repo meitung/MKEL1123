@@ -37,6 +37,8 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 ## **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+:two: [Git Bash](http://www.git-scm.com/download) (Optional)
+
 
 # System Architecture
 
@@ -54,7 +56,11 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 **Step :one: Import the source codes downloaded from GitHub**
 <br>
+
 :small_blue_diamond: Go to **File** then **Import**
+<br>
+
+:thought_balloon: You may refer to Section to download the source code
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="600">
@@ -728,6 +734,36 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 
 ```
+
+### Steps to Download Source Code
+Method :one: Directly download source code from [here](https://github.com/meitung/MKEL1123)
+<br>
+
+Press the **Code** button and select **Download ZIP**
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/DownloadCode1.png" width="400">
+</p>
+
+Unzip the ZIP file
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/unzip.png" width="400">
+</p>
+<br>
+
+Method :two: Download using [GitBash](http://www.git-scm.com/download)
+<br>
+
+:small_blue_diamond: Launch your GitBash
+<br>
+
+:small_blue_diamond: Change directory to your desired location to save the source code using the command **cd**
+<br>
+:small_blue_diamond: Download the source code by using the command **git clone https://github.com/meitung/MKEL1123.git**
+<p align="center">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/DownloadCode3.png" width="500">
+</p>
+
+
 ### Reference
 - [Introduction to FreeRTOS](https://controllerstech.com/introduction-to-free-rtos-in-stm32/)
 - [DHT22 Tutorial Video](https://www.youtube.com/watch?v=zuvvzTh4d4E&ab_channel=NizarMohideen-MicroPeta)
