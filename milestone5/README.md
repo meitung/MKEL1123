@@ -90,7 +90,8 @@ write api key of thingspeak
 
 
 ## ThingSpeak Setup
-**Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account** 
+**Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account**
+<br>
 :small_blue_diamond: For first time users, create an ThingSpeak account
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
@@ -110,6 +111,7 @@ write api key of thingspeak
 </p>
 <br>
 **Step :two: Create new channel to monitor the value of the sensors**
+<br>
 :small_blue_diamond: Create new channel
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
