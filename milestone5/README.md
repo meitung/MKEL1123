@@ -106,7 +106,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 </p>
 <br>
 
-**Optional Setting: Configure the motor operating time**
+:star:**Optional Setting: Configure the motor operating time**
 <br>
 **HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_SET)** is to set PA5 which is connected to the relay module to logic value **1**(5V) and turn the motor on while **HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_RESET)** is to set PA5 to logic value **0**(0V) and turn the motor off. By modifying the value in **HAL_Delay**, the operation period of the motor can be adjusted.
 
@@ -117,8 +117,10 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 ### Additional Information & Explanation
 **FreeRTOS**
+<br>
 FreeRTOS is a real-time operating system kernel for embedded devices such as Nucleo-F446RE for parallel task execution and can be activated in STM32CubeIDE.
 <br>
+
 To activate FreeRTOS:
 :small_blue_diamond: Open **.ioc** file and select **FREERTOS** under **Middleware**
 <br>
@@ -143,13 +145,13 @@ To activate FreeRTOS:
 In this project, 4 threads (tasks) are set as you can see in the main.c
 
 <p align="center">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS3.png">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS3.png" width="300">
 </p>	
 
 To create parallel task, the codes can be inserted inside the for loop.
 
 <p align="center">
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS4.png">
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/RTOS4.png" width="200">
 </p>
 
 ## ThingSpeak Setup
