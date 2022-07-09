@@ -66,6 +66,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import5.png" width="450">
 </p>
 <br>
+
 **Step :two: Configure the setting of Wi-Fi and ThingSpeak**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify1.png" width="600">
@@ -75,6 +76,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify3.png" width="450">
 </p>
 <br>
+
 **Step :three: Upload the program to your Nucleo-F446RE board**
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_modify4.png" width="600">
