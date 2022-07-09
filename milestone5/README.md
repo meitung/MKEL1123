@@ -79,18 +79,22 @@ write api key of thingspeak
 
 ## ThingSpeak Setup
 Step :one: Regsiter and login to [ThingSpeak](https://thingspeak.com/) account 
+
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak1.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak2.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak3.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak4.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
+</p>
 <br>
 Step :two: Create new channel to monitor the value of the sensors
+<p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak5.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak7.png" width="550">
+</p>
 <br>
-
 ## **Quick Links**
 - [YouTube Demostration Video (Milestone 4)](https://youtu.be/L6ZIIia__Tc)
 - [YouTube Progress Video (Milestone 3)](https://youtu.be/ZYLQebmYB-s)
