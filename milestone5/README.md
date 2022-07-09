@@ -36,7 +36,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 </p>
 
 ## **Software Installation**
-:one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+:one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) <br>
 :two: [Git Bash](http://www.git-scm.com/download) (Optional)
 
 
@@ -59,8 +59,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 :small_blue_diamond: Go to **File** then **Import**
 <br>
-
-:thought_balloon: You may refer to Section to download the source code
+:thought_balloon: You may refer to [here](https://github.com/meitung/MKEL1123/blob/main/milestone5/README.md#steps-to-download-source-code) to download the source code
 
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="600">
