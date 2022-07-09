@@ -180,7 +180,6 @@ To create parallel task, the codes can be inserted inside the for loop.
 
 **Step :two: Create new channel to monitor the value of the sensors**
 <br>
-
 :small_blue_diamond: Create a new channel
 <p align="center">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/thingspeak6.png" width="550">
@@ -188,7 +187,6 @@ To create parallel task, the codes can be inserted inside the for loop.
 
 :small_blue_diamond: Type a name for your channel and add description (optional). Since 4 parameters are monitored, 4 fields are enabled and labelled to "Light Intensity", "Temperature", "Water Level" and "Humidty". Click the **Save Channel** button to create and save your channel.
 <br>
-
 :thought_balloon: You may add more fields if you would like to add more sensor value or change the label name to your desired name.
 
 <p align="center">
