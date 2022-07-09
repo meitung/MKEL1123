@@ -56,7 +56,6 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 
 **Step :one: Import the source codes downloaded from GitHub**
 <br>
-
 :small_blue_diamond: Go to **File** then **Import**
 <br>
 :thought_balloon: You may refer to [here](https://github.com/meitung/MKEL1123/blob/main/milestone5/README.md#steps-to-download-source-code) to download the source code
@@ -127,13 +126,10 @@ FreeRTOS is a real-time operating system kernel for embedded devices such as Nuc
 
 To activate FreeRTOS:
 <br>
-
 :small_blue_diamond: Open **.ioc** file and select **FREERTOS** under **Middleware**
 <br>
-
 :small_blue_diamond: Select **CMSIS_V1** as interface
 <br>
-
 :small_blue_diamond: Go to **Tasks and Queues** and **Add**
 <br>
 
