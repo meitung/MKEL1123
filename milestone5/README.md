@@ -53,8 +53,8 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 - PA10: USART1_TX (ESP8266 Wi-Fi Module) <br>
 <br>
 Step :one: Import the source codes downloaded from GitHub
-![xxx](https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png){ width=50% height=50% }
-<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png">
+
+<img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import1.png" width="550">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import2.png">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import3.png">
 <img src="https://github.com/meitung/MKEL1123/blob/main/milestone5/Photos/STM32CubeIDE_import4.png">
