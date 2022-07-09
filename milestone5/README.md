@@ -38,8 +38,7 @@ The program of the microcontroller is written using the software STM32CubeIDE. T
 ## **Software Installation**
 :one: [STM3232CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-## System Architecture
-
+# System Architecture
 
 ## STM32CubeIDE
 <p align="center">
