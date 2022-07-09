@@ -121,6 +121,8 @@ FreeRTOS is a real-time operating system kernel for embedded devices such as Nuc
 <br>
 
 To activate FreeRTOS:
+<br>
+
 :small_blue_diamond: Open **.ioc** file and select **FREERTOS** under **Middleware**
 <br>
 
